@@ -41,13 +41,13 @@ position: absolute;
     justify-content: center;
     margin: 0px;
 }
-.image{width: 300px;
-    height: 300px;
+.image{width: 438px;
+    height: 438px;
     margin-top: 80px;
     background-image: url("../image/background.jpg");
 background-position: center;
 background-size: cover;
-border-radius: 50px;
+border-radius: 73% 27% 100% 0% / 100% 22% 78% 0%;
 }
 
 
@@ -91,14 +91,15 @@ svg{margin:0px;
         border-radius: 71% 29% 39% 61% / 76% 75% 25% 24% ;
         background: rgb(63,94,251);
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-        margin-top: -60px;
+        margin-top: -136px;
     
     
        
     
     }
     .pragraph2{
-        width: 480px;
+        width: 569px;
+        height: 182px;
         text-align: center;
         margin-top: 55px;
         color: aliceblue;
